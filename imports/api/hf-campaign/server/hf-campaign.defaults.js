@@ -1,0 +1,93 @@
+module.exports = [
+	{
+        createdBy : "",
+        createdAt : new Date(),
+        numberOfworkers : 5,
+        timeStart : 0,
+        timeStop : 0,
+        site : null,
+        numBf : 1,
+        numRunner : 0,
+        productId : "54N06",
+        concreteT : 5,
+        ironT:10,
+        first : false,
+        interventionType : {
+            coulee : false,
+            couleeVibre : true,
+            gunitDense : false,
+            gunitFin : true,
+            prefa : false,
+            dammage : false
+        },
+        layer : {
+            usure : true,
+            secu : false,
+            bascule : false,
+        },
+        location : {
+            rmImpact : true,
+            rmAvBarrage : false,
+            rmApBarrage : false,
+            rmPoutre : false,
+            rlPiege : false,
+            rlVirage : true,
+            rlGauche : false,
+            rlDroite : false,
+            rfPiege : false,
+            rfVirage : false,
+            rfGauche : false,
+            rfDroite : false
+        },
+        usureProfiles : [],
+        photos : [],
+        remarks : [],
+	},
+    {
+        createdBy : "",
+        createdAt : new Date(),
+        numberOfworkers : 5,
+        timeStart : 0,
+        timeStop : 0,
+        siteId : null,
+        numBf : 1,
+        numRunner : 0,
+        productId : "54N06",
+        concreteT : 5,
+        ironT:10,
+        first : false,
+        interventionType : {
+            coulee : false,
+            couleeVibre : true,
+            gunitDense : false,
+            gunitFin : true,
+            prefa : false,
+            dammage : false
+        },
+        layer : {
+            usure : true,
+            secu : false,
+            bascule : false,
+        },
+        location : {
+            rmImpact : true,
+            rmAvBarrage : false,
+            rmApBarrage : false,
+            rmPoutre : false,
+            rlPiege : false,
+            rlVirage : true,
+            rlGauche : false,
+            rlDroite : false,
+            rfPiege : false,
+            rfVirage : false,
+            rfGauche : false,
+            rfDroite : false
+        },
+        usureProfiles : [],
+        photos : [],
+        remarks : [],
+	},
+]
+
+
+    
